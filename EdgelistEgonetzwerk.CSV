@@ -1,5 +1,5 @@
-from;to;Kontakt;relation;Dauer
-F;A;3;1;2
-F;B;4;2;1
-F;C;3;2;1
-F;D;3;1;3
+from,to,Kontakt,relation,Dauer
+F,A,3,1,2
+F,B,4,2,1
+F,C,3,2,1
+F,D,3,1,3
