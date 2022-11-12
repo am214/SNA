@@ -1,6 +1,6 @@
-id;age;name;sex;Religion;Abschluss;namensherkunft
-A;21;Simon;m;Atheismus;Abitur;deutsch
-B;25;Ilenia;f;Atheismus;Mittlere Reife   ;Mittel/-Osteuropa
-C;21;Enna;f;Atheismus;Abitur;deutsch
-D;49;Beatrix;f;Atheismus;Mittlere Reife   ;Mittel/-Osteuropa
-E;21;Flo;m;Atheismus;Abitur;deutsch
+id,age,name,sex,Religion,Abschluss,namensherkunft
+A,21,Simon,m,Atheismus,Abitur,deutsch
+B,25,Ilenia;f;Atheismus;Mittlere Reife   ;Mittel/-Osteuropa
+C,21,Enna;f;Atheismus;Abitur;deutsch
+D,49,Beatrix;f;Atheismus;Mittlere Reife   ;Mittel/-Osteuropa
+E,21,Flo;m;Atheismus;Abitur;deutsch
